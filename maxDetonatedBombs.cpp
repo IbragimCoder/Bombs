@@ -3,7 +3,7 @@
 #include <unordered_map>
 #include <unordered_set>
 #include <queue>
-
+#include "bomb.cpp"
 
 int maxDetonatedBombs(std::vector<std::vector<int>>& bombs)
 {

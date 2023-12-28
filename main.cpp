@@ -60,5 +60,7 @@ int main()
 
     out.close();
 
+	testing::InitGoogleTest();
+	
     return RUN_ALL_TESTS();
 }

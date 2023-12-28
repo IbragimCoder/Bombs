@@ -60,5 +60,5 @@ int main()
 
     out.close();
 
-    return 0;
+    return RUN_ALL_TESTS();
 }
